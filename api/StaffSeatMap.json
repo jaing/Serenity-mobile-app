@@ -1,0 +1,510 @@
+{
+    "legend": [
+        {
+            "label": "order"
+        },
+        {
+            "label": "inprogress"
+        }
+    ],
+    "columns": [
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "inprogress",
+                    "order": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "empty",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "order",
+                    "order": 2,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "order",
+                    "order": 2,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "empty",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "order",
+                    "order": 2,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "inprogress",
+                    "order": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "inprogress",
+                    "order": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "empty",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "order",
+                    "order": 2,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "order",
+                    "order": 2,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "empty",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "order",
+                    "order": 2,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "inprogress",
+                    "order": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "class": "seat"
+                }
+            ]
+        }
+    ]
+}

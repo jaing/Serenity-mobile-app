@@ -1,0 +1,14 @@
+{
+    "language": "pl",
+	"title": "Serenity",
+    "orderType": "seat",
+	"user": {
+        "id": 1,
+        "firstName": "Anna",
+        "lastName": "Jenkins",
+        "avatar": "images/avatar.jpg",
+        "loyalty": {
+            "points": 2012
+        }
+    }
+}

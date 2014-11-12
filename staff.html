@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <title>Serenity - Staff</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="">
+    <link rel="stylesheet" href="css/staff.css">
+    <script src="js/libs/modernizr-2.6.2.min.js"></script>
+    <script data-main="js/staff" src="js/libs/require.js"></script>
+</head>
+<body>
+<div id="staff-app">
+    <header id="app-header">
+        <nav class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+
+                    <a class="brand" href="#">Serenity</a>
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    <div class="nav-collapse">
+                        <ul class="nav">
+                            <li data-page="home">
+                                <a href="#" data-translate="label.staff.menu.home"></a>
+                            </li>
+                            <li data-page="categories">
+                                <a href="#categories">
+                                    <span data-translate="label.staff.menu.categories"></span>
+                                </a>
+                            </li>
+                            <li data-page="products">
+                                <a href="#products">
+                                    <span data-translate="label.staff.menu.products"></span>
+                                </a>
+                            </li>
+                            <li data-page="orders">
+                                <a href="#orders">
+                                    <span data-translate="label.staff.menu.orders"></span>
+                                </a>
+                            </li>
+                            <li data-page="language">
+                                <a href="#language">
+                                    <span data-translate="label.staff.menu.language"></span>
+                                </a>
+                            </li>
+                            <li data-page="pages">
+                                <a href="#" data-translate="label.staff.menu.pages"></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div id="app-main">
+        <div id="page-home" class="hidden page">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span6">
+                        <div class="landing-block">
+                            <h4 data-translate="label.staff.popularProducts"></h4>
+                            <table class="table table-striped">
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th data-translate="label.staff.productName"></th>
+                                    <th data-translate="label.staff.productPrice"></th>
+                                    <th data-translate="label.staff.productOrderCount"></th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td><a href="#" class="name"><img class="img-polaroid" src="images/pobrane.jpg" alt=""/><span data-translate="label.product.name.1"></span></a></td>
+                                    <td>10 pln</td>
+                                    <td>20</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td><a href="#" class="name"><img class="img-polaroid" src="images/pobrane1.jpg" alt=""/><span data-translate="label.product.name.1"></span></a></td>
+                                    <td>10 pln</td>
+                                    <td>20</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <button class="btn btn-large btn-block btn-inverse" type="button" data-translate="label.staff.menu.products.list"></button>
+                        </div>
+
+                    </div>
+                    <div class="span6">
+
+                        <div class="landing-block">
+                            <h4 data-translate="label.staff.latestOrders"></h4>
+                            <table class="table table-striped">
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th data-translate="label.staff.orderPrice"></th>
+                                    <th data-translate="label.staff.orderStatus"></th>
+                                    <th data-translate="label.staff.orderProductCount"></th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr class="success">
+                                    <td>132sg</td>
+                                    <td>239.00 pln</td>
+                                    <td data-translate="label.order.status.success"></td>
+                                    <td>20</td>
+                                </tr>
+                                <tr class="warning">
+                                    <td>132sg</td>
+                                    <td>239.00 pln</td>
+                                    <td data-translate="label.order.status.warning"></td>
+                                    <td>1</td>
+                                </tr>
+                                <tr class="warning">
+                                    <td>132sg</td>
+                                    <td>239.00 pln</td>
+                                    <td data-translate="label.order.status.warning"></td>
+                                    <td>1</td>
+                                </tr>
+                                <tr class="warning">
+                                    <td>132sg</td>
+                                    <td>239.00 pln</td>
+                                    <td data-translate="label.order.status.warning"></td>
+                                    <td>1</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <button class="btn btn-large btn-block btn-inverse" type="button" data-translate="label.staff.menu.orders.list"></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="overlay">
+    <div id="loading" class="">
+        <div class="container">
+            <div class="ball"></div>
+            <div class="ball"></div>
+            <div class="ball"></div>
+            <div class="ball"></div>
+            <div class="ball"></div>
+            <div class="ball"></div>
+            <div class="ball"></div>
+        </div>
+    </div>
+</div>
+<div id="msg-box"></div>
+</body>
+</html>

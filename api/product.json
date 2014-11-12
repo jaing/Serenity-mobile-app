@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "category": 3,
+    "image": "images/pobrane.jpg",
+    "price": {
+        "value": 10.00,
+        "currency": "pln",
+        "discount": 15
+    },
+    "isPromotion": true,
+    "isPopular": false,
+    "status": 1,
+    "hasExtendedBody": true
+}

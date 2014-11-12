@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "category": 2,
+        "image": "images/pobrane.jpg",
+        "price": {
+            "value": 10.00,
+            "currency": "pln",
+            "discount": 15
+        },
+        "isPromotion": true,
+        "isPopular": false,
+	    "status": 1,
+        "hasExtendedBody": true
+    },
+    {
+        "id": 2,
+"category": 2,
+
+        "image": "images/pobrane1.jpg",
+        "price": {
+            "value": 13.30,
+            "currency": "pln"
+        },
+        "isPromotion": true,
+        "isPopular": true,
+	    "status": 1,
+        "hasExtendedBody": true
+    },
+    {
+        "id": 3,
+"category": 2,
+
+        "image": "images/pobrane2.jpg",
+        "price": {
+            "value": 211.99,
+            "currency": "pln"
+        },
+        "isPromotion": false,
+        "isPopular": false,
+	    "status": 0,
+        "hasExtendedBody": true
+    },
+    {
+        "id": 4,
+"category": 2,
+
+        "image": "images/pobrane3.jpg",
+        "price": {
+            "value": 12.00,
+            "currency": "pln"
+        },
+        "isPromotion": false,
+        "isPopular": true,
+	    "status": 1,
+        "hasExtendedBody": false
+    },
+    {
+        "id": 5,
+"category": 2,
+
+        "image": "images/pobrane.jpg",
+        "price": {
+            "value": 10.00,
+            "currency": "pln",
+            "discount": 15
+        },
+        "isPromotion": true,
+        "isPopular": false,
+	    "status": 1,
+        "hasExtendedBody": true
+    },
+    {
+        "id": 6,
+"category": 2,
+
+        "image": "images/pobrane1.jpg",
+        "price": {
+            "value": 13.30,
+            "currency": "pln"
+        },
+        "isPromotion": true,
+        "isPopular": true,
+	    "status": 0,
+        "hasExtendedBody": true
+    },
+    {
+        "id": 7,
+"category": 2,
+
+        "image": "images/pobrane2.jpg",
+        "price": {
+            "value": 211.99,
+            "currency": "pln"
+        },
+        "isPromotion": false,
+        "isPopular": false,
+	    "status": 1,
+        "hasExtendedBody": true
+    },
+	{
+		"id": 8,
+		"category": 2,
+        "image": "images/pobrane3.jpg",
+		"price": {
+			"value": 12.00,
+			"currency": "pln"
+		},
+		"isPromotion": false,
+		"isPopular": true,
+		"status": 1,
+		"hasExtendedBody": false
+	},
+	{
+		"id": 9,
+		"category": 2,
+        "image": "images/pobrane3.jpg",
+		"price": {
+			"value": 12.00,
+			"currency": "pln"
+		},
+		"isPromotion": false,
+		"isPopular": true,
+		"status": 1,
+		"hasExtendedBody": false
+	},
+	{
+		"id": 10,
+		"category": 2,
+        "image": "images/pobrane3.jpg",
+		"price": {
+			"value": 12.00,
+			"currency": "pln"
+		},
+		"isPromotion": false,
+		"isPopular": true,
+		"status": 1,
+		"hasExtendedBody": false
+	},
+	{
+		"id": 11,
+		"category": 2,
+        "image": "images/pobrane3.jpg",
+		"price": {
+			"value": 12.00,
+			"currency": "pln"
+		},
+		"isPromotion": false,
+		"isPopular": true,
+		"status": 1,
+		"hasExtendedBody": false
+	}
+]

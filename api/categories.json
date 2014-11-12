@@ -1,0 +1,81 @@
+[
+	{
+		"id": 1,
+		"name": "drinks",
+		"children": [
+			{
+				"id": 2,
+				"parent": 1,
+				"name": "soda"
+			},
+            {
+                "id": 3,
+	            "parent": 1,
+                "name": "vine"
+            },
+            {
+                "id": 23,
+	            "parent": 1,
+                "name": "vine"
+            },
+            {
+                "id": 33,
+	            "parent": 1,
+                "name": "vine"
+            },
+            {
+                "id": 43,
+	            "parent": 1,
+                "name": "vine"
+            }
+		]
+	},
+	{
+		"id": 4,
+		"name": "dinners",
+		"children": [
+			{
+				"id": 5,
+				"parent": 4,
+				"name": "pasta"
+			},
+			{
+				"id": 6,
+				"parent": 4,
+				"name": "pizza"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "books",
+		"children": [
+			{
+				"id": 8,
+				"parent": 7,
+				"name": "novels"
+			},
+			{
+				"id": 9,
+				"parent": 7,
+				"name": "newspaper"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "toys",
+		"children": [
+			{
+				"id": 11,
+				"parent": 10,
+				"name": "cars"
+			},
+			{
+				"id": 12,
+				"parent": 10,
+				"name": "pc"
+			}
+		]
+	}
+]

@@ -1,0 +1,187 @@
+{
+    "legend": [
+        {
+            "label": "clickable"
+        },
+        {
+            "label": "blocked"
+        }
+    ],
+    "columns": [
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "empty",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "empty",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                }
+            ]
+        },
+        {
+            "class": "",
+            "rows": [
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "blocked",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": ""
+                },
+                {
+                    "id": 1,
+                    "status": "clickable",
+                    "class": "seat"
+                }
+            ]
+        }
+    ]
+}
